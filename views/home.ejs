@@ -1,0 +1,18 @@
+<%- include('header'); -%>
+
+<h2>Welcome to museum</h2>
+
+<div class="overview">
+
+    <div class="grid-item-overview <%=blog[0].classes%>"><img src="<%=blog[0].img%>" alt="<%=blog[0].alt%>"></img><h1 class="title"><%=blog[0].title%></h1><p class="description"><%=blog[0].description%></p><p class="date"><%=blog[0].date%></p></div>
+
+    <div class="grid-item-overview <%=blog[1].classes%>"><img src="<%=blog[1].img%>" alt="<%=blog[0].alt%>"></img><h1 class="title"><%=blog[1].title%></h1><p class="description"><%=blog[1].description%></p><p class="date"><%=blog[1].date%></p></div>
+
+    <div class="grid-item-overview <%=blog[2].classes%>"><img src="<%=blog[2].img%>" alt="<%=blog[0].alt%>"></img><h1 class="title"><%=blog[2].title%></h1><p class="description"><%=blog[2].description%></p><p class="date"><%=blog[2].date%></p></div>
+
+</div>
+
+<a class="seemore" href="/portfolio">SEE MORE</a>
+
+
+<%- include('footer'); -%>

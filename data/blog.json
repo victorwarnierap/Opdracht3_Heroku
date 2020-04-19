@@ -1,0 +1,66 @@
+
+{
+  "images": [{
+    "img": "/images/test01.jpg",
+    "classes": "red all",
+    "title": "Crying girl",
+    "artist": "Roy Lichtenstein",
+    "date": "1963"
+
+    },{
+    "img": "/images/test02.jpg",
+    "classes": "red all",
+    "title": "Untitled",
+    "artist": "Keith Haring",
+    "date": "1990"
+    }
+    ,{
+    "img": "/images/test03.jpg",
+    "classes": "green all",
+    "title": "Castle and Sun",
+    "artist": "Paul Klee",
+    "date": "1928"
+    },{
+    "img": "/images/test04.jpg",
+    "classes": "red all",
+    "title": "Portrait of Maurice",
+    "artist": "Andy Warhol",
+    "date": "1976"
+    },{
+    "img": "/images/test05.jpg",
+    "classes": "green all",
+    "title": "De oude gitarist",
+    "artist": "Pablo Picasso",
+    "date": "1903"
+    },{
+    "img": "/images/test06.jpg",
+    "classes": "green all",
+    "title": "Nu Couché",
+    "artist": "Amedeo Modigliani",
+    "date": "1917"
+    },{
+    "img": "/images/test07.jpg",
+    "classes": "red all",
+    "title": "Parmi les peintres",
+    "artist": "Eduardo Arroyo",
+    "date": "1975"
+    },{
+    "img": "/images/test08.jpg",
+    "classes": "green all",
+    "title": "Blaues Pferd I",
+    "artist": "Franz Marc",
+    "date": "1911"
+    },{
+    "img": "/images/test09.jpg",
+    "classes": "red all",
+    "title": "Sack-o-sauce",
+    "artist": "Eduardo Paolozzi",
+    "date": "1948"
+    },{
+    "img": "/images/test10.jpg",
+    "classes": "red all",
+    "title": "Glass and lemon",
+    "artist": "Roy Lichtenstein",
+    "date": "1974"
+    }]
+}
