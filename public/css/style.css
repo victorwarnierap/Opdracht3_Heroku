@@ -52,7 +52,7 @@ form {
   border-radius: 5px;
   line-height: 22px;
   background-color: transparent;
-  border:2px solid #131B47;
+  border:2px solid black;
   padding: 13px;
   margin-bottom: 15px;
   width:100%;
@@ -72,10 +72,10 @@ textarea {
 
 [type="submit"] {
   width: 100%;
-  background:#131B47;
+  background:#C4B07A;
   border-radius:5px;
   border:0;
-  color:#131B47;
+  color:black;
   font-size:24px;
   padding-top:10px;
   padding-bottom:10px;
@@ -83,9 +83,7 @@ textarea {
   margin-top:-4px;
   font-weight:700;
 }
-[type="submit"]:hover {
-  background:#EC8A5E;
-}
+
 
 .grid-item { width: 45.5%; margin-left: 30px;
   height:441px;
